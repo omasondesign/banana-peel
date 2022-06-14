@@ -1,0 +1,135 @@
+html {font-size: 100%;} /*16px*/
+
+* {
+    box-sizing: border-box;
+}
+
+.landing-page {
+  background-color: #1f1e0c;
+  color: #e6e2d2;
+  padding: 40px;
+}
+
+body {
+    background-color: #d4ccb0;
+    font-family: roc-grotesk, sans-serif;
+    font-style: normal;
+    line-height: 1;
+    color: #1f1e0c;  
+  
+  }
+  
+  p {
+    font-size: 1.333rem;
+    font-weight: 400;
+    padding: 5px 40px;
+    }
+  
+  h1, h2, h3, h4, h5 {
+    margin: 3rem 0 1.38rem;
+    font-family: roc-grotesk, sans-serif;
+    font-style: normal;
+    line-height: .90;
+    color: #1f1e0c;
+    padding: 10px 40px;
+  }
+  
+  em.bling {
+      color: #ba0445;
+      font-style: normal;
+  }
+
+  h1 {
+    margin-top: 30px;
+    font-size: 67.34px;
+    font-weight: 700;
+    width: 50%;
+  }
+  
+  h2 {
+      font-size: 3.157rem;
+      font-weight: 700;
+    }
+  
+  h3 {
+    font-size: 2.369rem;
+    font-weight: 500;
+  }
+  
+  h4 {
+    font-size: 1.777rem;
+    font-weight: 500;
+  }
+
+  h5 {
+    font-size: 1.333rem;
+    font-weight: 400;
+  }
+    
+  h6 {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+  small {
+    font-size: .75rem;
+    color: #ba0445;
+}
+ button {
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    margin: 10px 40px;
+    padding: 15px 25px;
+    text-transform: uppercase;
+    border: 2px solid #ba0445;
+    color: #ba0445;
+    background-color: #1f1e0c;
+ }
+
+ button:hover, button.outline:hover {
+  color: #ba0445;
+  background-color: #dec62b;
+ }
+
+ button.outline {
+    margin: 10px 40px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    padding: 15px 25px;
+    text-transform: uppercase;
+    border: 2px solid #ba0445;
+    color: #ba0445;
+    background-color: transparent;
+ }
+
+ #landing {
+  top: 850px;
+ }
+
+ div.landing-page {
+    height: 1000px;
+    margin: 0px;
+ }
+
+ div.product-scroll {
+    height: 1000px;
+ }
+
+div.copywriting-service {
+    background-color: #d4ccb0;
+    color:#1f1e0c;
+    height: 1000px;
+}
+
+.dark-background {
+
+}
+
+.yellow-background {
+
+}
+
+ 
+
+
